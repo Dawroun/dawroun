@@ -18,7 +18,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science and Engineering - BS at RosNoU University.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 👨‍👩‍👧 &nbsp; Being a happy ♥️
   - 👨‍🏫 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/davron_Abdukhakimov)
 - 🌱 &nbsp; Learning Materail UI, Node js, React Native and a lot more tech stuff.
