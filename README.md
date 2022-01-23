@@ -2,7 +2,7 @@
 
 # Hi there, I'm Davron 👋
 
-> A software engineer building awesome web front stuff using React tech-stack. A proud co-founder of `Ilmhub IT School` where we educate future software engineers.
+> A software engineer building awesome web front stuff using React js. A proud co-founder of `Ilmhub IT School` where we educate future software engineers.
 <br/><br/><br/>
 
 <p align="end">
@@ -21,17 +21,17 @@
   - 👨‍👩‍👧 &nbsp; Being a happy ♥️
   - 👨‍🏫 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/davron_Abdukhakimov)
-- 🌱 &nbsp; Learning .Materail UI, Node js and a lot more tech stuff.
+- 🌱 &nbsp; Learning Materail UI, Node js, React Native and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: davron2806@gmail.com
 
 <br/>
 
 <h1>🛠 Me Stack</h1>
 
-- 💻 &nbsp; `.c` | `.cpp` | `.js` | `.py` | `.html` | `.css` | `.js`
-- 🌐 &nbsp; React | Bootstrap 5 | jQuery | Node js
+- 💻 &nbsp; `.c` | `.cpp` | `.js` | `.py` | `.html` | `.css` | `.jsx` 
+- 🌐 &nbsp; React | Express js | jQuery | Node js
 - 🕸 &nbsp; Git | Bootstrap | HTML5 | CSS
-- 🛢 &nbsp; Sql |
+- 🛢 &nbsp; Sql | MongoDB
 - ⚙️ &nbsp; Git | Bash 
 
 <br/>
@@ -44,14 +44,8 @@
 <a />
 <div>
  <br/>
-
-[![Dawroun's Streak](https://github-readme-streak-stats.herokuapp.com?user=dawroun-d&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
-
-[![](https://komarev.com/ghpvc/?username=dawroun-d&color=orange&label=Profile%20Views)](https://github.com/dawroun/dawroun)
-[![](https://img.shields.io/github/followers/dawroun?label=GitHub%20Followers)](https://github.com/dawroun)
-
 <!--
-**wahid-d/wahid-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wahid-d/dawroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
