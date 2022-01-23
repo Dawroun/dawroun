@@ -1,6 +1,6 @@
 <a href="https://t.me/wahid_abduhakimov"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
 
-# Hi there, I'm Wahid 👋
+# Hi there, I'm Davron 👋
 
 > A software engineer building awesome web front stuff using React tech-stack. A proud co-founder of `Ilmhub IT School` where we educate future software engineers.
 <br/><br/><br/>
