@@ -9,7 +9,7 @@
 <a href="https://twitter.com/davron87284843" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
 <a href="https://www.linkedin.com/in/davron-abdukhkimov-33b272206"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/davron_abduhakimov"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/davron.abduhakimov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/davron_abduhakimov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/davron.abdukhakimov.50"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 
