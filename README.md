@@ -29,7 +29,7 @@
 
 - 💻 &nbsp; `.c` | `.cpp` | `.js` | `.py` | `.html` | `.css` | `.jsx` 
 - 🌐 &nbsp; JavaScript | Node js | C/C++ | Python
-- 🕸 &nbsp; React| Bootstrap | HTML5 | CSS | jQuery
+- 🕸 &nbsp; React | Bootstrap | HTML5 | CSS | jQuery
 - 🛢 &nbsp; Sql | MongoDB
 - ⚙️ &nbsp; Git | Bash 
 
