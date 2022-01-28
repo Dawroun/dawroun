@@ -28,8 +28,8 @@
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp; `.c` | `.cpp` | `.js` | `.py` | `.html` | `.css` | `.jsx` 
-- 🌐 &nbsp; React | Express js | jQuery | Node js
-- 🕸 &nbsp; Git | Bootstrap | HTML5 | CSS
+- 🌐 &nbsp; JavaScript | Node js | C/C++ | Python
+- 🕸 &nbsp; React| Bootstrap | HTML5 | CSS | jQuery
 - 🛢 &nbsp; Sql | MongoDB
 - ⚙️ &nbsp; Git | Bash 
 
