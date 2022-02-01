@@ -19,7 +19,7 @@
 - 🎓 &nbsp; Computer Science and Engineering - BS at RosNoU University.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 👨‍🏫 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
-- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/davron_Abdukhakimov)
+- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/frontend_uz)
 - 🌱 &nbsp; Learning Materail UI, Node js, React Native and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: davron2806@gmail.com
 
